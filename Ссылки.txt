@@ -1,0 +1,3 @@
+https://webcode.tools - Генераторы для добавления html,css и т.д.
+
+https://apsolyamov.ru/files/html-table-generator.html - Генераторы таблиц <Table>
