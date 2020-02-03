@@ -5,3 +5,5 @@ https://apsolyamov.ru/files/html-table-generator.html - Генераторы т�
 https://csshexagon.com Генератор шестиугольников
 
 https://webcode.tools Генератор кода CSS HTML и т.д кнопки, формы и т.п.
+
+https://animista.net Генератор анимации
