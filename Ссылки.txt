@@ -1,3 +1,7 @@
 https://webcode.tools - Генераторы для добавления html,css и т.д.
 
 https://apsolyamov.ru/files/html-table-generator.html - Генераторы таблиц <Table>
+
+https://csshexagon.com Генератор шестиугольников
+
+https://webcode.tools Генератор кода CSS HTML и т.д кнопки, формы и т.п.
