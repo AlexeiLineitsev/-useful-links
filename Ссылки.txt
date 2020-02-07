@@ -7,3 +7,13 @@ https://csshexagon.com Генератор шестиугольников
 https://webcode.tools Генератор кода CSS HTML и т.д кнопки, формы и т.п.
 
 https://animista.net Генератор анимации
+
+normilize.css
+
+reset.css
+
+
+https://www.fontsquirrel.com ГЕНЕРАТОР ШРИФТОВ
+
+
+
