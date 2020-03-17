@@ -16,4 +16,8 @@ reset.css
 https://www.fontsquirrel.com ГЕНЕРАТОР ШРИФТОВ
 
 
+https://developer.mozilla.org/ru/   это документация по JS
 
+
+
+http://tpverstak.ru/common-css-class-names/ Как называть классы и т.д.
