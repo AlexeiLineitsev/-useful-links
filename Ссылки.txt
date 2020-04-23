@@ -21,3 +21,11 @@ https://developer.mozilla.org/ru/   это документация по JS
 
 
 http://tpverstak.ru/common-css-class-names/ Как называть классы и т.д.
+
+
+
+https://primer.style/css/components/dropdown ПРИМЕРЫ И ЗАГОТОВКИ css, html, js много интересного
+
+
+
+https://regex101.com/ - Регулярные выражения онлайн
